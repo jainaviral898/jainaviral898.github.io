@@ -4,14 +4,14 @@ module.exports = {
     'Aviral Jain is a student at IIT KGP, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Aviral Jain, Aviral, Jain, jainaviral898, software developer, software engineer, machine learning, ai, face mask detection, web developer, java developer, pepper content, kota, ixigo, honeywell, iitkgp, iit, kgp',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+  siteUrl: 'https://jainaviral898.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Aviral Jain',
   location: 'Kota, Rajasthan, India',
   email: 'jainaviral898@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
+  github: 'https://github.com/jainaviral898',
   twitterHandle: '@juniorninja_18',
   socialMedia: [
     {
