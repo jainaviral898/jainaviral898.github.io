@@ -1,4 +1,4 @@
-- name: Explainable Weather Forecasting using Deep Spatial Autoencoders
+- name: Explainable Weather Forecasting
   url: https://github.com/jainaviral898/weather-foreacasting-with-autoencoders
   code: https://github.com/jainaviral898/weather-foreacasting-with-autoencoders
   description: Implemented a Data Driven Weather Prediction model using a spatial transformer-based U-NET to capture features of spatio-temporal weather data
@@ -10,8 +10,8 @@
     - thing: Plotly
 
 - name: Personal Website V2
-  url: https://github.com/jainaviral898/jainaviral898.github.io
-  code: https://github.com/jainaviral898/jainaviral898.github.io
+  url: https://jainaviral898.github.io
+  code: https://jainaviral898.github.io
   description: Second iteration of my personal website using Jekyll.
   used:
     - thing: Jekyll
@@ -19,7 +19,7 @@
     - thing: JavaScript
     - thing: Github Pages
 
-- name: Wheat Head Identification for Yield Monitoring
+- name: Wheat Head Identification
   url: https://github.com/jainaviral898/Wheat-Head-Detection
   code: https://github.com/jainaviral898/Wheat-Head-Detection
   description: Implemented and trained image detection models like Faster-RCNN, EfficientDet, YOLO to predict bounding boxes over wheat heads
@@ -29,7 +29,7 @@
     - thing: Keras
     - thing: PIL
 
-- name: Multi Agent Pathfinding Problem and its applications in Agriculture
+- name: Multi Agent Pathfinding Problem
   url: https://github.com/jainaviral898/mapp-cbs-aifa
   code: https://github.com/jainaviral898/mapp-cbs-aifa
   description: Modeled the multi agent path finding problem for managing aerial and ground (obstacle-constrained) swarms for precision agriculture
@@ -45,7 +45,7 @@
     - thing: CSS
     - thing: Bootstrap
     - thing: JavaScript
-- name: Breast Histopathology Image Segmentation
+- name: Cell Nuclei Image Segmentation
   url: https://github.com/jainaviral898/Cell-Nuclei-Segmentation-using-cGAN
   code: https://github.com/jainaviral898/Cell-Nuclei-Segmentation-using-cGAN
   description: Built a data pre-processing pipeline for generating synthetic data and segmenting cell nuclei using ResUNet++ model, for identifying and classifying breast cancer.
