@@ -135,7 +135,7 @@
 
     body.night,
     html.night {
-    background-color: #385f6a;
+    background-color: #171c28;
     color: #afafbf;
     }
 
@@ -568,8 +568,10 @@
 
     @media screen and (max-width: 1024px) {
     .intro__hello,
-    .intro__tagline {
+    .intro__tagline,
+    .intro__photo {
         font-size: 2.25rem;
+        float: none;
     }
     }
 
@@ -729,7 +731,13 @@
 
     .intro__tagline {
     font-weight: 300;
-    max-width: 700px;
+    max-width: 50%;
+    float: left;
+    }
+    
+    .intro__photo{
+    max-width: 50%;
+    float: right;
     }
 
     .intro__tagline .name {
