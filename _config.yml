@@ -1,26 +1,24 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
+name: Aviral Jain
+title: Aviral Jain | Portfolio
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
 url: https://jainaviral898.github.io/jekyll-portfolio/
 baseurl: https://jainaviral898.github.io/jekyll-portfolio/
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: jainaviral898@gmail.com
+cover: https://jainaviral898.github.io/jekyll-portfolio/img/og.png
+logo: https://jainaviral898.github.io/jekyll-portfolio/img/emojis/technologist.png
+resume: https://jainaviral898.github.io/jekyll-portfolio/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:jainaviral898@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/juniorninja_18
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://instagram.com/_aviraljain
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/jainaviral898
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/jainaviral898/
 
 # Build settings
 markdown: kramdown

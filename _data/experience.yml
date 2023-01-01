@@ -1,44 +1,23 @@
-- company: Upstatement
-  url: https://www.upstatement.com/
-  time: May 2018 - Present
-  position: Engineer
+- company: Honeywell
+  url: https://sps.honeywell.com/us/en/campaigns/productivity/track-and-trace-campaign
+  time: May - June 2022
+  position: Software Development Intern
+  description: -> Worked in an agile production environment for redesigning the Track & Trace portal<br>-> Integrated a Dashboard and Serialization Engine with the portal using React.JS<br>-> Embedded a dynamic map using GoogleMaps API to show real time inventory data<br>-> Utilized Kubernetes and Docker for the runtime environment of the CI/CD pipeline
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2018
-  position: Studio Developer
+- company: ixigo
+  url: https://www.ixigo.com/
+  time: Feb - Apr 2022
+  position: Data Science Research Intern
+  description: -> Built predictions for pre-emptive caching of flight search data using Survival Analysis<br>-> Prepared survival data, engineered features for multivariate modeling<br>-> Trained and benchmarked linear and ensemble Survival models in the sksurv package<br>
 
-- company: Apple Music
-  url: https://www.apple.com/music/
-  time: July - Dec 2017
-  position: UI Engineer Co-op
+- company: OneCard
+  url: https://www.getonecard.app/
+  time: Feb 2022
+  position: Data Science Intern
+  description: -> Implemented an in-house address standardization API, to clean-up rough addresses<br>-> Exposed the feature as an HTTP endpoint using REST APIs using Flask<br>-> Minimized the probability of fraud and saved mailing expenses by ~15%
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2017
-  position: Studio Developer
-
-- company: Starry
-  url: https://starry.com/
-  time: July - Dec 2016
-  position: Software Engineer Co-op
-
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Jan - May 2016
-  position: HCI Teaching Assistant
-
-- company: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu/
-  time: Jan 2016 - May 2017
-  position: President & Web Chair
-
-- company: MullenLowe U.S.
-  url: https://us.mullenlowe.com/
-  time: July - Dec 2015
-  position: Creative Technologist Co-op
-
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Mar - May 2015
-  position: HCI Research Assistant
+- company: Pristyn Care
+  url: https://www.pristyncare.com/
+  time: May - Jun 2021
+  position: Growth Intern
+  description: -> Conducted primary research on corporate healthcare firms to enable corporate tie-ups<br>-> Contributed 17% of quarterly acquisition target by partnering with MakeMyTrip & Myntra
