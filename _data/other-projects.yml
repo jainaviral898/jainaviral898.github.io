@@ -10,8 +10,8 @@
     - thing: Plotly
 
 - name: Personal Website V2
-  url: https://github.com/jainaviral898/jekyll-portfolio
-  code: https://github.com/jainaviral898/jekyll-portfolio
+  url: https://github.com/jainaviral898/jainaviral898.github.io
+  code: https://github.com/jainaviral898/jainaviral898.github.io
   description: Second iteration of my personal website using Jekyll.
   used:
     - thing: Jekyll

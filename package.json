@@ -4,9 +4,9 @@
   "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jainaviral898/jekyll-portfolio"
+    "url": "https://github.com/jainaviral898/jainaviral898.github.io"
   },
-  "homepage": "https://github.com/jainaviral898/jekyll-portfolio",
+  "homepage": "https://github.com/jainaviral898/jainaviral898.github.io",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",

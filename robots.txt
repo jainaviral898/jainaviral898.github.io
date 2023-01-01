@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://jainaviral898.github.io/jekyll-portfolio/sitemap.xml
+Sitemap: https://jainaviral898.github.io/jainaviral898.github.io/sitemap.xml
