@@ -37,7 +37,7 @@
     - thing: Python
 
 - name: Personal Website V1
-  url: https://jainaviral898.github.io/
+  url: https://jainaviral898.github.io/v1/
   code: https://github.com/jainaviral898/jainaviral898.github.io
   description: My first portfolio website using static HTML content. I learned quite a bit about web development.
   used:
