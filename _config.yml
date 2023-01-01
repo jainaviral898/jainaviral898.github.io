@@ -1,13 +1,13 @@
 # Site settings
 name: Aviral Jain
 title: Aviral Jain | Portfolio
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+description: Final year undergrad student @ IIT Kharagpur, with a passion for solving problems with creative thinking. Always looking for new opportunities to learn and grow.
 url: https://github.com/jainaviral898/jainaviral898.github.io/
 baseurl: https://github.com/jainaviral898/jainaviral898.github.io/
 email: jainaviral898@gmail.com
-cover: https://github.com/jainaviral898/jainaviral898.github.io/img/og.png
-logo: https://github.com/jainaviral898/jainaviral898.github.io/img/emojis/technologist.png
-resume: https://github.com/jainaviral898/jainaviral898.github.io/resume.pdf
+cover: https://github.com/jainaviral898/jainaviral898.github.io/blob/master/img/og.png
+logo: https://github.com/jainaviral898/jainaviral898.github.io/blob/master/img/emojis/technologist.png
+resume: https://github.com/jainaviral898/jainaviral898.github.io/blob/master/resume.pdf
 social:
   - title: email
     url: mailto:jainaviral898@gmail.com
