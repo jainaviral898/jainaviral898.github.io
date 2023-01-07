@@ -1,6 +1,7 @@
 languages:
   - item: C/C++
   - item: Python
+  - item: Java
   - item: JavaScript (ES6)
   - item: HTML/CSS  
   - item: SQL
