@@ -1,9 +1,10 @@
 languages:
-  - item: C/C++
+  - item: C++
   - item: Python
   - item: Java
-  - item: JavaScript (ES6)
-  - item: HTML/CSS  
+  - item: JavaScript
+  - item: Groovy
+  - item: HTML/CSS
   - item: SQL
 
 frameworks:
@@ -13,7 +14,6 @@ frameworks:
   - item: OpenCV/PIL
   - item: NLTK
   - item: React
-  - item: Jekyll
   - item: Node
 
 tools:
@@ -21,6 +21,7 @@ tools:
   - item: Git & Github
   - item: Jupyter
   - item: Postman
+  - item: Mircosoft Office Suite
 
 design:
   - item: Lightroom

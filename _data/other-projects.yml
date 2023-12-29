@@ -46,15 +46,6 @@
   used:
     - thing: Python
 
-- name: Personal Website V1
-  url: https://jainaviral898.github.io/v1/
-  code: https://github.com/jainaviral898/jainaviral898.github.io
-  description: My first portfolio website using static HTML content. I learned quite a bit about web development.
-  used:
-    - thing: HTML
-    - thing: CSS
-    - thing: Bootstrap
-    - thing: JavaScript
 - name: Cell Nuclei Image Segmentation
   url: https://github.com/jainaviral898/Cell-Nuclei-Segmentation-using-cGAN
   code: https://github.com/jainaviral898/Cell-Nuclei-Segmentation-using-cGAN
