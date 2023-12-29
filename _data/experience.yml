@@ -1,3 +1,14 @@
+- company: Deloitte USI Consulting
+  url: https://www2.deloitte.com/ui/en/pages/careers/articles/join-deloitte-consulting-careers.html?icid=top_join-deloitte-consulting-careers
+  time: Aug 2023 - Present
+  position: Analyst
+  description: Working to develop and configure advanced pricing solutions using CPQ platforms. 
+  used:
+    - thing: PriceFX
+    - thing: Groovy
+    - thing: Git
+    - thing: Excel
+    
 - company: Honeywell
   url: https://sps.honeywell.com/us/en/campaigns/productivity/track-and-trace-campaign
   time: May - June 2022
