@@ -1,3 +1,13 @@
+- name: Emulation of a Agent Based Simulation Model using Deep Learning
+  url: https://github.com/jainaviral898/abm-emulator
+  code: https://github.com/jainaviral898/abm-emulator
+  description: Emulated the behaviour of a Agent Based Epidemic Simulation model, using inexpensive deep learning methods.
+  used:
+    - thing: Python
+    - thing: PyTorch Lightning
+    - thing: Scikit Learn
+    - thing: Plotly
+    
 - name: Explainable Weather Forecasting
   url: https://github.com/jainaviral898/weather-foreacasting-with-autoencoders
   code: https://github.com/jainaviral898/weather-foreacasting-with-autoencoders
