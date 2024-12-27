@@ -1,24 +1,19 @@
 languages:
   - item: C++
   - item: Python
-  - item: Java
-  - item: JavaScript
   - item: Groovy
-  - item: HTML/CSS
   - item: SQL
 
 frameworks:
-  - item: Keras
-  - item: Tensorflow
-  - item: PyTorch
-  - item: OpenCV/PIL
-  - item: NLTK
-  - item: React
-  - item: Node
+  - item: pandas
+  - item: sklearn
+  - item: pyspark
+  - item: dask
+  - item: rapids (cuml/cudf)
 
 tools:
   - item: Bash
-  - item: Git & Github
+  - item: Git
   - item: Jupyter
   - item: Postman
   - item: Mircosoft Office Suite
@@ -28,4 +23,4 @@ design:
   - item: Photoshop
   - item: Premiere Pro
   - item: Figma
-  - item: Wireframing
+  - item: Canva
