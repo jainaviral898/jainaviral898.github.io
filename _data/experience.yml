@@ -1,8 +1,19 @@
+- company: ixigo
+  url: https://www.ixigo.com/
+  time: Sep 2024 - Present
+  position: Data Scientist
+  description: Working with the hotels line of division on ML research based projects. 
+  used:
+    - thing: Python
+    - thing: Learning to Rank Algorithms (L2R)
+    - thing: Clustering Algorithms
+    - thing: Big Data Processing
+
 - company: Deloitte USI Consulting
   url: https://www2.deloitte.com/ui/en/pages/careers/articles/join-deloitte-consulting-careers.html?icid=top_join-deloitte-consulting-careers
-  time: Aug 2023 - Present
+  time: Aug 2023 - Aug 2024
   position: Analyst
-  description: Working to develop and configure advanced pricing solutions using CPQ platforms. 
+  description: Worked on developing sophisticated pricing solutions using CPQ platforms, also worked with some LLMs. 
   used:
     - thing: PriceFX
     - thing: Groovy
